@@ -17,11 +17,8 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-*{
-    margin: 0;
-    padding:0;
-    box-sizing: border-box;
-}
+/* sposto il reset direttamente in app */
+
 .Jumbotron{
     background-image: url(../assets/aliens-fireteam-elite-1276397-1280x0-min.jpeg);
     background-repeat: no-repeat;
